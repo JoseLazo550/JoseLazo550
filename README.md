@@ -1,5 +1,5 @@
 -Hi, don't panic. I’m Jose Lazo.
--I am a study at Universidad Autonoma Chapingo.
+-I study at Universidad Autonoma Chapingo.
 -I love programming and I hope make great things.
 
 <!---
